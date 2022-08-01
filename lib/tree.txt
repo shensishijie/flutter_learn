@@ -1,0 +1,51 @@
+.
+├── api_service.dart
+├── main.dart
+├── movie
+│   ├── movie_logic.dart
+│   ├── movie_model.dart
+│   └── movie_view.dart
+├── provider.dart
+├── provider_test
+│   ├── change_notifier_provider_example.dart
+│   ├── count_notifier.dart
+│   ├── future_provider_example.dart
+│   ├── use_model1.dart
+│   ├── user_future.dart
+│   ├── user_model2.dart
+│   └── user_model3.dart
+├── route
+│   ├── AfterLayoutRoute.dart
+│   ├── FileOperationRoute.dart
+│   ├── ValueListenableRoute.dart
+│   ├── chip_test_route.dart
+│   ├── dialog_test.dart
+│   ├── gardient_btn_test.dart
+│   ├── getX_test.dart
+│   ├── nested_tab_bar_view.dart
+│   ├── provider_count_example.dart
+│   ├── render_box_route.dart
+│   ├── scaffold_route.dart
+│   ├── scroll_controller_test_route.dart
+│   ├── sliver_test.dart
+│   ├── tab_view1.dart
+│   ├── tab_view2.dart
+│   ├── theme_test.dart
+│   └── widget_test.dart
+├── tree.txt
+└── widget
+    ├── FutureBuilderRoute.dart
+    ├── HttpTestRoute.dart
+    ├── InfiniteListView.dart
+    ├── Infinite_gridView.dart
+    ├── NotificationRoute.dart
+    ├── animated_list.dart
+    ├── focus_test.dart
+    ├── formtest.dart
+    ├── gradient_btn_widget.dart
+    ├── nav_bar.dart
+    ├── page_view.dart
+    ├── progress.dart
+    └── scroll_notification_test.dart
+
+4 directories, 44 files
